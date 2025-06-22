@@ -11,7 +11,8 @@ This site acts as a digital portfolio and outreach tool for MITS, ideal for:
 - Technology services promotion
 - Contact & engagement capture
 
-Live Demo *(optional)*: [Add URL if hosted]
+Live Demo:
+https://varshithdev.github.io/micro-intro/
 
 ---
 
